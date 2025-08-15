@@ -1,0 +1,133 @@
+
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C25_PJ15_npy_SB_ZonePair_fixBug_TEST_PJ16/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C25_PJ15_npy_SB_ZonePair_fixBug_TEST_PJ16/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C26_PJ18_npy_SB_ZonePair_fixBug_TEST_PJ17/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C26_PJ18_npy_SB_ZonePair_fixBug_TEST_PJ17/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C26_PJ18_npy_SB_ZonePair_fixBug_TEST_PJ19/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C26_PJ18_npy_SB_ZonePair_fixBug_TEST_PJ19/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C26_PJ20_npy_SB_ZonePair_fixBug_TEST_PJ21/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C26_PJ20_npy_SB_ZonePair_fixBug_TEST_PJ21/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C26_PJ20_npy_SB_ZonePair_fixBug_TEST_PJ22/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C26_PJ20_npy_SB_ZonePair_fixBug_TEST_PJ22/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C26_PJ20_npy_SB_ZonePair_fixBug_TEST_PJ23/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C26_PJ20_npy_SB_ZonePair_fixBug_TEST_PJ23/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C26_PJ20_npy_SB_ZonePair_fixBug_TEST_PJ24/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C26_PJ20_npy_SB_ZonePair_fixBug_TEST_PJ24/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C27_PJ27_npy_SB_ZonePair_fixBug_TEST_PJ25/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C27_PJ27_npy_SB_ZonePair_fixBug_TEST_PJ25/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C27_PJ27_npy_SB_ZonePair_fixBug_TEST_PJ26/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C27_PJ27_npy_SB_ZonePair_fixBug_TEST_PJ26/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C27_PJ27_npy_SB_ZonePair_fixBug_TEST_PJ29/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C27_PJ27_npy_SB_ZonePair_fixBug_TEST_PJ29/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C27_PJ27_npy_SB_ZonePair_fixBug_TEST_PJ30/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C27_PJ27_npy_SB_ZonePair_fixBug_TEST_PJ30/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C28_PJ33_npy_SB_ZonePair_fixBug_TEST_PJ31/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C28_PJ33_npy_SB_ZonePair_fixBug_TEST_PJ31/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C28_PJ33_npy_SB_ZonePair_fixBug_TEST_PJ32/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C28_PJ33_npy_SB_ZonePair_fixBug_TEST_PJ32/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C28_PJ33_npy_SB_ZonePair_fixBug_TEST_PJ34/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C28_PJ33_npy_SB_ZonePair_fixBug_TEST_PJ34/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C28_PJ33_npy_SB_ZonePair_fixBug_TEST_PJ35/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C28_PJ33_npy_SB_ZonePair_fixBug_TEST_PJ35/mosaic --input_type img
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_C28_PJ33_npy_SB_ZonePair_fixBug_TEST_PJ36/fake_images/ --subsample_rate 2 --output mosaic_example/junocam_calibration_C28_PJ33_npy_SB_ZonePair_fixBug_TEST_PJ36/mosaic --input_type img
+
+
+## UVM
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ13/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ13/mosaic_M --input_type UVM
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ13/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ13/mosaic_UV --input_type UVM
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ14/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ14/mosaic_M --input_type UVM
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ14/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ14/mosaic_UV --input_type UVM
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ15/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ15/mosaic_M --input_type UVM
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ15/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ15/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ16/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ16/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ16/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C25_PJ15_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ16/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ18_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ17/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ18_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ17/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ18_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ17/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ18_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ17/mosaic_UV --input_type UVM
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ18_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ18/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ18_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ18/mosaic_M --input_type UVM
+
+#python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ18_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ18/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ18_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ18/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ18_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ19/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ18_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ19/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ18_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ19/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ18_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ19/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ20/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ20/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ20/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ20/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ21/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ21/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ21/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ21/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ22/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ22/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ22/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ22/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ23/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ23/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ23/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ23/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ24/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ24/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ24/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C26_PJ20_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ24/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ25/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ25/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ25/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ25/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ26/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ26/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ26/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ26/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ27/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ27/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ27/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ27/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ28/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ28/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ28/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ28/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ29/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ29/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ29/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ29/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ30/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ30/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ30/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C27_PJ27_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ30/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ31/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ31/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ31/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ31/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ32/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ32/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ32/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ32/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ33/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ33/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ33/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ33/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ34/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ34/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ34/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ34/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ35/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ35/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ35/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ35/mosaic_UV --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ36/fake_images_M/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ36/mosaic_M --input_type UVM
+
+python create_mosaic.py --input mosaic_example/A_metadata.csv --path_to_images mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ36/fake_images_UV/ --subsample_rate 2 --output mosaic_example/junocam_calibration_UVM_C28_PJ33_npy_SB_ZonePair_fixBug_unaligned_TEST_PJ36/mosaic_UV --input_type UVM
+

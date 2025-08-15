@@ -1,0 +1,33 @@
+[project]
+name = "junocam-calibration-utils"
+version = "0.1.0"
+description = "Utilities for data generation/processing/evaluation for JunoCam image calibration"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "astropy>=6.1.7",
+    "cartopy>=0.24.1",
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.6",
+    "opencv-python>=4.11.0.86",
+    "pyproj>=3.7.1",
+    "scikit-image>=0.25.2",
+    "scikit-learn>=1.7.1",
+    "scipy>=1.15.3",
+    "tqdm>=4.67.1",
+]
+
+[project.optional-dependencies]
+dataset = [
+    "healpy>=1.18.1",
+    "netcdf4>=1.7.2",
+    "opencv-python>=4.11.0.86",
+    "rasterio>=1.4.3",
+]
+eval = [
+    "torch>=2.7.1",
+    "torchvision>=0.22.1",
+]
+export = [
+    "rasterio>=1.4.3",
+]
